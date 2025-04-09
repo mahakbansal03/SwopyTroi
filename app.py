@@ -1038,7 +1038,7 @@ def draw_banner():
     print(Fore.CYAN + banner)
     print(Fore.GREEN + "Version: 1.0")
     print(Fore.CYAN + "[-] Tool Created by JosephSpace (SW)")
-    print(Fore.GREEN + "[-] Copyright (C) 2025 Multicore Developers")
+    print(Fore.GREEN + "[-] Copyright (C) 2025 SwopiTroi Developers")
 
 # Main Menu (Zphisher-style, yatay sütunlar)
 def main_menu():
